@@ -37,3 +37,7 @@ Lambda expressions are important to the program if you want any sort of variable
 # Data
 
 In this particular system I did not invoke a data storage such as an S3 bucket; however, there are many benefits to doing so.  Having a storage facility that it can call and read at any time means it would be able to be processed using Machine Learning.  The only "Learning" the system had was voice recognition which was handled by AWS instead of me.  This means there is a lot of room for adaptability in the future for doing things like visual recognition, and sound recognition (i.e. finding out who is talking).
+
+# Source Code
+
+AWS does not spport Sorce Code in the same way it does for EC2 servers and the like if it is hosted locally like this current project.  I can not provide the materials in a file or copy-paste format like other projects in this one.  
