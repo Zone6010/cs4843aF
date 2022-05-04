@@ -26,3 +26,10 @@ Intents that are available on the LEX System provided:
         -An intent to simulate ordering flowers.  It is not hooked up to any stores currently, so it will not purchase anything in reality.
     FallbackIntent
         -An intent to fall back on if nothing else fits the description of the question.  Similar to a "default" in a switch statement for coding.
+
+# Show-off Video
+https://utsa.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4730fe41-8b60-46be-b2a1-ae8b016833dd
+
+# Lambda 
+
+Lambda expressions are important to the program if you want any sort of variable work done.  This includes times, dates, anything not explicitly given by the user.  In my program they are used to handle dates and time, which are used in the SetTimer, OrderFlowers, and AboutLex Intents.  To set something like this up you have to have an alias for your intent which can been seen by the lambda functions, and when called upon the intent will ping and the lambda will be invoked.  This is how it recieves the time/date which is handled by the server I am currently in, that being N. America East (Virginia)
