@@ -40,4 +40,4 @@ In this particular system I did not invoke a data storage such as an S3 bucket; 
 
 # Source Code
 
-AWS does not spport Sorce Code in the same way it does for EC2 servers and the like if it is hosted locally like this current project.  I can not provide the materials in a file or copy-paste format like other projects in this one.  
+AWS does not support Sorce Code in the same way it does for EC2 servers and the like if it is hosted locally like this current project.  I can not provide the materials in a file or copy-paste format like other projects in this one.  
