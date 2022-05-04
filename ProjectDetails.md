@@ -5,7 +5,9 @@
 Screenshot (210).png in the main folder details how the AWS Lex system works. 
 
 # Intents
+
 Intents that are available on the LEX System provided:
+
     SetTimer
         -An intent created in order to set an alarm when hooked up to something that can alarm the user, this function can later be modified using lambda expression to hook it up to send an E-Mail to the user. 
     HelpMenu
